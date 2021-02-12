@@ -6,4 +6,4 @@ Eine interaktive Visualisierung der [#Berlin112](https://twitter.com/hashtag/Ber
 
 <a href="https://lbenedix.github.io/Berlin112_2021">![Screenshot](https://lbenedix.github.io/Berlin112/karte.png)</a>
 
-https://lbenedix.github.io/Berlin112_2021
+https://lbenedix.github.io/Berlin112_2021/
